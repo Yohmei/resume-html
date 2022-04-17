@@ -4,9 +4,9 @@
     "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  static/bg.1c5062d4.jpg (343 KiB)\n  templates/vendors~main.8876f6ac.js (250 KiB)"
   ],
   "version": "4.46.0",
-  "hash": "52032e606c98ab1263b9",
-  "time": 17209,
-  "builtAt": 1650229750039,
+  "hash": "f9a841d3250e768741fb",
+  "time": 8250,
+  "builtAt": 1650231047432,
   "publicPath": "/",
   "outputPath": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\dist",
   "assetsByChunkName": {
@@ -14,8 +14,8 @@
     "__react_static_root__/src/pages/index.tsx": "templates/__react_static_root__/src/pages/index.tsx.a35da389.js",
     "main": "main.c0532cc4.js",
     "styles": [
-      "styles.ccc5a743.css",
-      "templates/styles.d8e68b3b.js"
+      "styles.8be98eb3.css",
+      "templates/styles.d3941fba.js"
     ],
     "vendors~main": "templates/vendors~main.8876f6ac.js"
   },
@@ -100,8 +100,8 @@
       "emitted": true
     },
     {
-      "name": "styles.ccc5a743.css",
-      "size": 3709,
+      "name": "styles.8be98eb3.css",
+      "size": 3679,
       "chunks": [
         3
       ],
@@ -142,7 +142,7 @@
       "emitted": true
     },
     {
-      "name": "templates/styles.d8e68b3b.js",
+      "name": "templates/styles.d3941fba.js",
       "size": 104,
       "chunks": [
         3
@@ -180,8 +180,8 @@
         2
       ],
       "assets": [
-        "styles.ccc5a743.css",
-        "templates/styles.d8e68b3b.js",
+        "styles.8be98eb3.css",
+        "templates/styles.d3941fba.js",
         "templates/vendors~main.8876f6ac.js",
         "main.c0532cc4.js"
       ],
@@ -197,8 +197,8 @@
         2
       ],
       "assets": [
-        "styles.ccc5a743.css",
-        "templates/styles.d8e68b3b.js",
+        "styles.8be98eb3.css",
+        "templates/styles.d3941fba.js",
         "templates/vendors~main.8876f6ac.js",
         "main.c0532cc4.js"
       ],
@@ -1028,15 +1028,15 @@
       "initial": true,
       "entry": false,
       "reason": "split chunk (cache group: styles) (name: styles)",
-      "size": 9834,
+      "size": 9771,
       "names": [
         "styles"
       ],
       "files": [
-        "styles.ccc5a743.css",
-        "templates/styles.d8e68b3b.js"
+        "styles.8be98eb3.css",
+        "templates/styles.d3941fba.js"
       ],
-      "hash": "7512553e02a1871d705d",
+      "hash": "80902432fd7409f658b1",
       "siblings": [
         2,
         4
@@ -1103,7 +1103,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 3,
-          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650229739808\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231042531\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
         },
         {
           "id": 128,
@@ -1143,14 +1143,14 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "static/georgerounded-webfont.9498680e.woff2",
-            "static/georgerounded-webfont.dee065d5.woff",
             "static/ava.0af43d31.jpg",
-            "static/georgeroundedlight-webfont.10ed0c5b.woff",
-            "static/georgeroundedbold-webfont.3c4c5bd4.woff2",
             "static/bg.1c5062d4.jpg",
+            "static/georgeroundedlight-webfont.10ed0c5b.woff",
             "static/georgeroundedlight-webfont.bf663e3f.woff2",
-            "static/georgeroundedbold-webfont.e1a37e74.woff"
+            "static/georgerounded-webfont.dee065d5.woff",
+            "static/georgeroundedbold-webfont.e1a37e74.woff",
+            "static/georgerounded-webfont.9498680e.woff2",
+            "static/georgeroundedbold-webfont.3c4c5bd4.woff2"
           ],
           "reasons": [
             {
@@ -1169,7 +1169,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 3,
-          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650229740239\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231043067\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
         },
         {
           "id": "",
@@ -1234,7 +1234,7 @@
           "name": "css C:/Users/ayohm/Documents/Code/resume-html/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-3-1!C:/Users/ayohm/Documents/Code/resume-html/node_modules/postcss-loader/src??postcss!C:/Users/ayohm/Documents/Code/resume-html/src/index.css",
           "index": 129,
           "index2": 125,
-          "size": 2501,
+          "size": 2438,
           "built": false,
           "optional": false,
           "prefetched": false,
@@ -3271,9 +3271,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -3577,9 +3577,9 @@
           "chunks": [
             4
           ],
-          "issuer": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "issuerId": 110,
-          "issuerName": "../lib/bootstrapTemplates.js",
+          "issuer": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "issuerId": 56,
+          "issuerName": "../lib/bootstrapPlugins.js",
           "issuerPath": [
             {
               "id": 55,
@@ -3587,9 +3587,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             }
           ],
           "failed": false,
@@ -3702,9 +3702,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -3813,9 +3813,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -4332,9 +4332,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -4950,9 +4950,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6025,9 +6025,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6096,9 +6096,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6172,9 +6172,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6238,9 +6238,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6309,9 +6309,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6375,9 +6375,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6441,9 +6441,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6517,9 +6517,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6669,9 +6669,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6750,9 +6750,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6831,9 +6831,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6917,9 +6917,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -6993,9 +6993,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -7069,9 +7069,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -7145,9 +7145,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -8779,9 +8779,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -8841,9 +8841,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -8903,9 +8903,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -8965,9 +8965,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9022,9 +9022,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9084,9 +9084,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9146,9 +9146,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9208,9 +9208,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9270,9 +9270,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9337,9 +9337,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9409,9 +9409,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9481,9 +9481,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9558,9 +9558,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9630,9 +9630,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9707,9 +9707,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9784,9 +9784,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9861,9 +9861,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -9943,9 +9943,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10025,9 +10025,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10102,9 +10102,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10179,9 +10179,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10251,9 +10251,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10362,9 +10362,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10429,9 +10429,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10496,9 +10496,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10563,9 +10563,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10625,9 +10625,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -10690,9 +10690,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 110,
-              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 6,
@@ -14430,9 +14430,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -14736,9 +14736,9 @@
       "chunks": [
         4
       ],
-      "issuer": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-      "issuerId": 110,
-      "issuerName": "../lib/bootstrapTemplates.js",
+      "issuer": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+      "issuerId": 56,
+      "issuerName": "../lib/bootstrapPlugins.js",
       "issuerPath": [
         {
           "id": 55,
@@ -14746,9 +14746,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         }
       ],
       "failed": false,
@@ -14861,9 +14861,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -14972,9 +14972,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -15491,9 +15491,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -16195,9 +16195,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17270,9 +17270,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17341,9 +17341,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17417,9 +17417,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17483,9 +17483,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17554,9 +17554,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17620,9 +17620,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17686,9 +17686,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17762,9 +17762,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17914,9 +17914,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -17995,9 +17995,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -18076,9 +18076,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -18162,9 +18162,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -18238,9 +18238,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -18314,9 +18314,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -18390,9 +18390,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -20445,9 +20445,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -20507,9 +20507,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -20569,9 +20569,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -20631,9 +20631,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -20688,9 +20688,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -20750,9 +20750,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -20812,9 +20812,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -20874,9 +20874,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -20936,9 +20936,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21003,9 +21003,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21075,9 +21075,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21147,9 +21147,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21224,9 +21224,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21296,9 +21296,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21373,9 +21373,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21450,9 +21450,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21527,9 +21527,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21609,9 +21609,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21691,9 +21691,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21768,9 +21768,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21845,9 +21845,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -21917,9 +21917,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -22028,9 +22028,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -22095,9 +22095,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -22162,9 +22162,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -22229,9 +22229,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -22291,9 +22291,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -22356,9 +22356,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 110,
-          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 6,
@@ -24305,7 +24305,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 3,
-      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650229739808\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231042531\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
     },
     {
       "id": 128,
@@ -24345,14 +24345,14 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
-        "static/georgerounded-webfont.9498680e.woff2",
-        "static/georgerounded-webfont.dee065d5.woff",
         "static/ava.0af43d31.jpg",
-        "static/georgeroundedlight-webfont.10ed0c5b.woff",
-        "static/georgeroundedbold-webfont.3c4c5bd4.woff2",
         "static/bg.1c5062d4.jpg",
+        "static/georgeroundedlight-webfont.10ed0c5b.woff",
         "static/georgeroundedlight-webfont.bf663e3f.woff2",
-        "static/georgeroundedbold-webfont.e1a37e74.woff"
+        "static/georgerounded-webfont.dee065d5.woff",
+        "static/georgeroundedbold-webfont.e1a37e74.woff",
+        "static/georgerounded-webfont.9498680e.woff2",
+        "static/georgeroundedbold-webfont.3c4c5bd4.woff2"
       ],
       "reasons": [
         {
@@ -24371,7 +24371,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 3,
-      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650229740239\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231043067\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
     },
     {
       "id": 129,
@@ -24441,7 +24441,7 @@
       "name": "css C:/Users/ayohm/Documents/Code/resume-html/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-3-1!C:/Users/ayohm/Documents/Code/resume-html/node_modules/postcss-loader/src??postcss!C:/Users/ayohm/Documents/Code/resume-html/src/index.css",
       "index": 129,
       "index2": 125,
-      "size": 2501,
+      "size": 2438,
       "built": false,
       "optional": false,
       "prefetched": false,
@@ -24597,14 +24597,14 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 7274,
+          "size": 7209,
           "names": [
             "extract-css-chunks-webpack-plugin"
           ],
           "files": [
             "*"
           ],
-          "hash": "f3f0d364804cc9e19b1d",
+          "hash": "f8d2c2493fb3d74afcd8",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -24616,7 +24616,7 @@
               "name": "C:/Users/ayohm/Documents/Code/resume-html/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-3-1!C:/Users/ayohm/Documents/Code/resume-html/node_modules/postcss-loader/src??postcss!C:/Users/ayohm/Documents/Code/resume-html/src/index.css",
               "index": 0,
               "index2": 10,
-              "size": 3722,
+              "size": 3657,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -24649,7 +24649,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0,
-              "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar urlEscape = require(\"../node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff2\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff\"));\nvar ___CSS_LOADER_URL___2___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff2\"));\nvar ___CSS_LOADER_URL___3___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff\"));\nvar ___CSS_LOADER_URL___4___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff2\"));\nvar ___CSS_LOADER_URL___5___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff\"));\nvar ___CSS_LOADER_URL___6___ = urlEscape(require(\"../public/img/bg.jpg\"));\nvar ___CSS_LOADER_URL___7___ = urlEscape(require(\"../public/img/ava.jpg\"));\n\n// Module\nexports.push([module.id, \"@font-face {\\r\\n  font-family: 'George Light';\\r\\n  src: url(\" + ___CSS_LOADER_URL___0___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___1___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George';\\r\\n  src: url(\" + ___CSS_LOADER_URL___2___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___3___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George Bold';\\r\\n  src: url(\" + ___CSS_LOADER_URL___4___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___5___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n* {\\r\\n  --sans-light: 'George Light';\\r\\n  --sans: 'George';\\r\\n  --sans-bold: 'George Bold';\\r\\n}\\r\\n\\r\\nbody {\\r\\n  font-size: 2.1vh;\\r\\n  background: url(\" + ___CSS_LOADER_URL___6___ + \") no-repeat top center;\\r\\n  background-size: cover;\\r\\n  font-family: var(--sans);\\r\\n}\\r\\n\\r\\n.frame {\\r\\n  aspect-ratio: 1/1.4142;\\r\\n  border-radius: 50px;\\r\\n  height: 100%;\\r\\n  width: 50%;\\r\\n  margin: 40px auto;\\r\\n  padding: 40px;\\r\\n  /* background-color: rgb(255, 255, 255, 0.2); */\\r\\n  -webkit-backdrop-filter: blur(150px);\\r\\n          backdrop-filter: blur(150px);\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\nheader {\\r\\n  display: flex;\\r\\n  width: 100%;\\r\\n  height: 20%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.right-side-header {\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.left-side-main {\\r\\n  width: 45%;\\r\\n  display: flex;\\r\\n  justify-content: flex-start;\\r\\n}\\r\\n\\r\\n.right-side-header,\\r\\n.right-side-main {\\r\\n  width: 55%;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: flex-end;\\r\\n  padding-left: 35px;\\r\\n}\\r\\n\\r\\nh1 {\\r\\n  font-weight: normal;\\r\\n  font-family: var(--sans-bold);\\r\\n  font-size: 4em;\\r\\n  margin: 0;\\r\\n  letter-spacing: 5px;\\r\\n}\\r\\n\\r\\nh2 {\\r\\n  letter-spacing: 1px;\\r\\n  margin-top: 20px !important;\\r\\n  font-size: 2em;\\r\\n  margin: 0;\\r\\n}\\r\\n\\r\\n.photo {\\r\\n  border-radius: 50px;\\r\\n  content: '';\\r\\n  background: url(\" + ___CSS_LOADER_URL___7___ + \") no-repeat center center;\\r\\n  background-size: cover;\\r\\n  width: 70%;\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  height: 76%;\\r\\n}\\r\\n\\r\\nh3 {\\r\\n  font-size: 1.5em;\\r\\n}\\r\\n\\r\\nh4 {\\r\\n  font-size: 1.1em;\\r\\n  margin-bottom: 5px;\\r\\n}\\r\\n\\r\\np {\\r\\n  margin-top: 0;\\r\\n  font-size: 1.1em;\\r\\n  text-align: justify;\\r\\n}\\r\\n\\r\\n.left-side-main {\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\n.right-side-main {\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\", \"\"]);\n\n"
+              "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar urlEscape = require(\"../node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff2\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff\"));\nvar ___CSS_LOADER_URL___2___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff2\"));\nvar ___CSS_LOADER_URL___3___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff\"));\nvar ___CSS_LOADER_URL___4___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff2\"));\nvar ___CSS_LOADER_URL___5___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff\"));\nvar ___CSS_LOADER_URL___6___ = urlEscape(require(\"../public/img/bg.jpg\"));\nvar ___CSS_LOADER_URL___7___ = urlEscape(require(\"../public/img/ava.jpg\"));\n\n// Module\nexports.push([module.id, \"@font-face {\\r\\n  font-family: 'George Light';\\r\\n  src: url(\" + ___CSS_LOADER_URL___0___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___1___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George';\\r\\n  src: url(\" + ___CSS_LOADER_URL___2___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___3___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George Bold';\\r\\n  src: url(\" + ___CSS_LOADER_URL___4___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___5___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n* {\\r\\n  --sans-light: 'George Light';\\r\\n  --sans: 'George';\\r\\n  --sans-bold: 'George Bold';\\r\\n}\\r\\n\\r\\nbody {\\r\\n  /* font-size: 2.1vh; */\\r\\n  font-size: 1vw;\\r\\n  background: url(\" + ___CSS_LOADER_URL___6___ + \") no-repeat top center;\\r\\n  background-size: cover;\\r\\n  font-family: var(--sans);\\r\\n}\\r\\n\\r\\n.frame {\\r\\n  aspect-ratio: 1/1.4142;\\r\\n  border-radius: 50px;\\r\\n  height: 100%;\\r\\n  width: 50%;\\r\\n  margin: 40px auto;\\r\\n  padding: 40px;\\r\\n  background-color: rgb(255, 255, 255, 0.5);\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\nheader {\\r\\n  display: flex;\\r\\n  width: 100%;\\r\\n  height: 20%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.right-side-header {\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.left-side-main {\\r\\n  width: 45%;\\r\\n  display: flex;\\r\\n  justify-content: flex-start;\\r\\n}\\r\\n\\r\\n.right-side-header,\\r\\n.right-side-main {\\r\\n  width: 55%;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: flex-end;\\r\\n  padding-left: 35px;\\r\\n}\\r\\n\\r\\nh1 {\\r\\n  font-weight: normal;\\r\\n  font-family: var(--sans-bold);\\r\\n  font-size: 4em;\\r\\n  margin: 0;\\r\\n  letter-spacing: 5px;\\r\\n}\\r\\n\\r\\nh2 {\\r\\n  letter-spacing: 1px;\\r\\n  margin-top: 20px !important;\\r\\n  font-size: 2em;\\r\\n  margin: 0;\\r\\n}\\r\\n\\r\\n.photo {\\r\\n  border-radius: 50px;\\r\\n  content: '';\\r\\n  background: url(\" + ___CSS_LOADER_URL___7___ + \") no-repeat center center;\\r\\n  background-size: cover;\\r\\n  width: 70%;\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  height: 76%;\\r\\n}\\r\\n\\r\\nh3 {\\r\\n  font-size: 1.5em;\\r\\n}\\r\\n\\r\\nh4 {\\r\\n  font-size: 1.1em;\\r\\n  margin-bottom: 5px;\\r\\n}\\r\\n\\r\\np {\\r\\n  margin-top: 0;\\r\\n  font-size: 1.1em;\\r\\n  text-align: justify;\\r\\n}\\r\\n\\r\\n.left-side-main {\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\n.right-side-main {\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\", \"\"]);\n\n"
             },
             {
               "id": 1,
@@ -25142,7 +25142,7 @@
           "name": "C:/Users/ayohm/Documents/Code/resume-html/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-3-1!C:/Users/ayohm/Documents/Code/resume-html/node_modules/postcss-loader/src??postcss!C:/Users/ayohm/Documents/Code/resume-html/src/index.css",
           "index": 0,
           "index2": 10,
-          "size": 3722,
+          "size": 3657,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -25175,7 +25175,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0,
-          "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar urlEscape = require(\"../node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff2\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff\"));\nvar ___CSS_LOADER_URL___2___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff2\"));\nvar ___CSS_LOADER_URL___3___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff\"));\nvar ___CSS_LOADER_URL___4___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff2\"));\nvar ___CSS_LOADER_URL___5___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff\"));\nvar ___CSS_LOADER_URL___6___ = urlEscape(require(\"../public/img/bg.jpg\"));\nvar ___CSS_LOADER_URL___7___ = urlEscape(require(\"../public/img/ava.jpg\"));\n\n// Module\nexports.push([module.id, \"@font-face {\\r\\n  font-family: 'George Light';\\r\\n  src: url(\" + ___CSS_LOADER_URL___0___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___1___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George';\\r\\n  src: url(\" + ___CSS_LOADER_URL___2___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___3___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George Bold';\\r\\n  src: url(\" + ___CSS_LOADER_URL___4___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___5___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n* {\\r\\n  --sans-light: 'George Light';\\r\\n  --sans: 'George';\\r\\n  --sans-bold: 'George Bold';\\r\\n}\\r\\n\\r\\nbody {\\r\\n  font-size: 2.1vh;\\r\\n  background: url(\" + ___CSS_LOADER_URL___6___ + \") no-repeat top center;\\r\\n  background-size: cover;\\r\\n  font-family: var(--sans);\\r\\n}\\r\\n\\r\\n.frame {\\r\\n  aspect-ratio: 1/1.4142;\\r\\n  border-radius: 50px;\\r\\n  height: 100%;\\r\\n  width: 50%;\\r\\n  margin: 40px auto;\\r\\n  padding: 40px;\\r\\n  /* background-color: rgb(255, 255, 255, 0.2); */\\r\\n  -webkit-backdrop-filter: blur(150px);\\r\\n          backdrop-filter: blur(150px);\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\nheader {\\r\\n  display: flex;\\r\\n  width: 100%;\\r\\n  height: 20%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.right-side-header {\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.left-side-main {\\r\\n  width: 45%;\\r\\n  display: flex;\\r\\n  justify-content: flex-start;\\r\\n}\\r\\n\\r\\n.right-side-header,\\r\\n.right-side-main {\\r\\n  width: 55%;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: flex-end;\\r\\n  padding-left: 35px;\\r\\n}\\r\\n\\r\\nh1 {\\r\\n  font-weight: normal;\\r\\n  font-family: var(--sans-bold);\\r\\n  font-size: 4em;\\r\\n  margin: 0;\\r\\n  letter-spacing: 5px;\\r\\n}\\r\\n\\r\\nh2 {\\r\\n  letter-spacing: 1px;\\r\\n  margin-top: 20px !important;\\r\\n  font-size: 2em;\\r\\n  margin: 0;\\r\\n}\\r\\n\\r\\n.photo {\\r\\n  border-radius: 50px;\\r\\n  content: '';\\r\\n  background: url(\" + ___CSS_LOADER_URL___7___ + \") no-repeat center center;\\r\\n  background-size: cover;\\r\\n  width: 70%;\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  height: 76%;\\r\\n}\\r\\n\\r\\nh3 {\\r\\n  font-size: 1.5em;\\r\\n}\\r\\n\\r\\nh4 {\\r\\n  font-size: 1.1em;\\r\\n  margin-bottom: 5px;\\r\\n}\\r\\n\\r\\np {\\r\\n  margin-top: 0;\\r\\n  font-size: 1.1em;\\r\\n  text-align: justify;\\r\\n}\\r\\n\\r\\n.left-side-main {\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\n.right-side-main {\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\", \"\"]);\n\n"
+          "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar urlEscape = require(\"../node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff2\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff\"));\nvar ___CSS_LOADER_URL___2___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff2\"));\nvar ___CSS_LOADER_URL___3___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff\"));\nvar ___CSS_LOADER_URL___4___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff2\"));\nvar ___CSS_LOADER_URL___5___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff\"));\nvar ___CSS_LOADER_URL___6___ = urlEscape(require(\"../public/img/bg.jpg\"));\nvar ___CSS_LOADER_URL___7___ = urlEscape(require(\"../public/img/ava.jpg\"));\n\n// Module\nexports.push([module.id, \"@font-face {\\r\\n  font-family: 'George Light';\\r\\n  src: url(\" + ___CSS_LOADER_URL___0___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___1___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George';\\r\\n  src: url(\" + ___CSS_LOADER_URL___2___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___3___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George Bold';\\r\\n  src: url(\" + ___CSS_LOADER_URL___4___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___5___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n* {\\r\\n  --sans-light: 'George Light';\\r\\n  --sans: 'George';\\r\\n  --sans-bold: 'George Bold';\\r\\n}\\r\\n\\r\\nbody {\\r\\n  /* font-size: 2.1vh; */\\r\\n  font-size: 1vw;\\r\\n  background: url(\" + ___CSS_LOADER_URL___6___ + \") no-repeat top center;\\r\\n  background-size: cover;\\r\\n  font-family: var(--sans);\\r\\n}\\r\\n\\r\\n.frame {\\r\\n  aspect-ratio: 1/1.4142;\\r\\n  border-radius: 50px;\\r\\n  height: 100%;\\r\\n  width: 50%;\\r\\n  margin: 40px auto;\\r\\n  padding: 40px;\\r\\n  background-color: rgb(255, 255, 255, 0.5);\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\nheader {\\r\\n  display: flex;\\r\\n  width: 100%;\\r\\n  height: 20%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.right-side-header {\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.left-side-main {\\r\\n  width: 45%;\\r\\n  display: flex;\\r\\n  justify-content: flex-start;\\r\\n}\\r\\n\\r\\n.right-side-header,\\r\\n.right-side-main {\\r\\n  width: 55%;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: flex-end;\\r\\n  padding-left: 35px;\\r\\n}\\r\\n\\r\\nh1 {\\r\\n  font-weight: normal;\\r\\n  font-family: var(--sans-bold);\\r\\n  font-size: 4em;\\r\\n  margin: 0;\\r\\n  letter-spacing: 5px;\\r\\n}\\r\\n\\r\\nh2 {\\r\\n  letter-spacing: 1px;\\r\\n  margin-top: 20px !important;\\r\\n  font-size: 2em;\\r\\n  margin: 0;\\r\\n}\\r\\n\\r\\n.photo {\\r\\n  border-radius: 50px;\\r\\n  content: '';\\r\\n  background: url(\" + ___CSS_LOADER_URL___7___ + \") no-repeat center center;\\r\\n  background-size: cover;\\r\\n  width: 70%;\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  height: 76%;\\r\\n}\\r\\n\\r\\nh3 {\\r\\n  font-size: 1.5em;\\r\\n}\\r\\n\\r\\nh4 {\\r\\n  font-size: 1.1em;\\r\\n  margin-bottom: 5px;\\r\\n}\\r\\n\\r\\np {\\r\\n  margin-top: 0;\\r\\n  font-size: 1.1em;\\r\\n  text-align: justify;\\r\\n}\\r\\n\\r\\n.left-side-main {\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\n.right-side-main {\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\", \"\"]);\n\n"
         },
         {
           "id": 1,
