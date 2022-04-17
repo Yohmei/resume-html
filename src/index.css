@@ -29,7 +29,8 @@
 }
 
 body {
-  font-size: 2.1vh;
+  /* font-size: 2.1vh; */
+  font-size: 1vw;
   background: url('../public/img/bg.jpg') no-repeat top center;
   background-size: cover;
   font-family: var(--sans);
@@ -42,8 +43,7 @@ body {
   width: 50%;
   margin: 40px auto;
   padding: 40px;
-  /* background-color: rgb(255, 255, 255, 0.2); */
-  backdrop-filter: blur(150px);
+  background-color: rgb(255, 255, 255, 0.5);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
