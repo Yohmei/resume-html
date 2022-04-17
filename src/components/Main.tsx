@@ -49,21 +49,21 @@ const Main = () => {
         <div className='experience'>
           <h3>EXPERIENCE</h3>
           <p>LOREM LOREM</p>
-          <p>01/2016 - 01/2022</p>
+          <p>01/2016 - 01/2022 @ STUDIO GHIBLI</p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim aliquam perspiciatis vitae eveniet alias
             assumenda, voluptatibus repellat exercitationem adipisci nulla, unde, optio molestias quibusdam nostrum
             iure. Quam accusamus earum hic.
           </p>
           <p>LOREM LOREM</p>
-          <p>01/2016 - 01/2022</p>
+          <p>01/2016 - 01/2022 @ STUDIO GHIBLI</p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim aliquam perspiciatis vitae eveniet alias
             assumenda, voluptatibus repellat exercitationem adipisci nulla, unde, optio molestias quibusdam nostrum
             iure. Quam accusamus earum hic.
           </p>
           <p>LOREM LOREM</p>
-          <p>01/2016 - 01/2022</p>
+          <p>01/2016 - 01/2022 @ STUDIO GHIBLI</p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim aliquam perspiciatis vitae eveniet alias
             assumenda, voluptatibus repellat exercitationem adipisci nulla, unde, optio molestias quibusdam nostrum
