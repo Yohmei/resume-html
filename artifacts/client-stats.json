@@ -4,9 +4,9 @@
     "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  static/bg.1c5062d4.jpg (343 KiB)\n  templates/vendors~main.8876f6ac.js (250 KiB)"
   ],
   "version": "4.46.0",
-  "hash": "f9a841d3250e768741fb",
-  "time": 8250,
-  "builtAt": 1650231047432,
+  "hash": "c502e6297eee9b141441",
+  "time": 7423,
+  "builtAt": 1650231849680,
   "publicPath": "/",
   "outputPath": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\dist",
   "assetsByChunkName": {
@@ -14,8 +14,8 @@
     "__react_static_root__/src/pages/index.tsx": "templates/__react_static_root__/src/pages/index.tsx.a35da389.js",
     "main": "main.c0532cc4.js",
     "styles": [
-      "styles.8be98eb3.css",
-      "templates/styles.d3941fba.js"
+      "styles.955dca24.css",
+      "templates/styles.f39bf8fd.js"
     ],
     "vendors~main": "templates/vendors~main.8876f6ac.js"
   },
@@ -100,8 +100,8 @@
       "emitted": true
     },
     {
-      "name": "styles.8be98eb3.css",
-      "size": 3679,
+      "name": "styles.955dca24.css",
+      "size": 3695,
       "chunks": [
         3
       ],
@@ -142,7 +142,7 @@
       "emitted": true
     },
     {
-      "name": "templates/styles.d3941fba.js",
+      "name": "templates/styles.f39bf8fd.js",
       "size": 104,
       "chunks": [
         3
@@ -180,8 +180,8 @@
         2
       ],
       "assets": [
-        "styles.8be98eb3.css",
-        "templates/styles.d3941fba.js",
+        "styles.955dca24.css",
+        "templates/styles.f39bf8fd.js",
         "templates/vendors~main.8876f6ac.js",
         "main.c0532cc4.js"
       ],
@@ -197,8 +197,8 @@
         2
       ],
       "assets": [
-        "styles.8be98eb3.css",
-        "templates/styles.d3941fba.js",
+        "styles.955dca24.css",
+        "templates/styles.f39bf8fd.js",
         "templates/vendors~main.8876f6ac.js",
         "main.c0532cc4.js"
       ],
@@ -1028,15 +1028,15 @@
       "initial": true,
       "entry": false,
       "reason": "split chunk (cache group: styles) (name: styles)",
-      "size": 9771,
+      "size": 9822,
       "names": [
         "styles"
       ],
       "files": [
-        "styles.8be98eb3.css",
-        "templates/styles.d3941fba.js"
+        "styles.955dca24.css",
+        "templates/styles.f39bf8fd.js"
       ],
-      "hash": "80902432fd7409f658b1",
+      "hash": "0f48fe2412e5d6e69c8c",
       "siblings": [
         2,
         4
@@ -1103,7 +1103,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 3,
-          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231042531\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231845480\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
         },
         {
           "id": 128,
@@ -1143,14 +1143,14 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
+            "static/georgeroundedlight-webfont.bf663e3f.woff2",
             "static/ava.0af43d31.jpg",
             "static/bg.1c5062d4.jpg",
             "static/georgeroundedlight-webfont.10ed0c5b.woff",
-            "static/georgeroundedlight-webfont.bf663e3f.woff2",
-            "static/georgerounded-webfont.dee065d5.woff",
-            "static/georgeroundedbold-webfont.e1a37e74.woff",
             "static/georgerounded-webfont.9498680e.woff2",
-            "static/georgeroundedbold-webfont.3c4c5bd4.woff2"
+            "static/georgerounded-webfont.dee065d5.woff",
+            "static/georgeroundedbold-webfont.3c4c5bd4.woff2",
+            "static/georgeroundedbold-webfont.e1a37e74.woff"
           ],
           "reasons": [
             {
@@ -1169,7 +1169,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 3,
-          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231043067\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231845875\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
         },
         {
           "id": "",
@@ -1234,7 +1234,7 @@
           "name": "css C:/Users/ayohm/Documents/Code/resume-html/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-3-1!C:/Users/ayohm/Documents/Code/resume-html/node_modules/postcss-loader/src??postcss!C:/Users/ayohm/Documents/Code/resume-html/src/index.css",
           "index": 129,
           "index2": 125,
-          "size": 2438,
+          "size": 2489,
           "built": false,
           "optional": false,
           "prefetched": false,
@@ -24305,7 +24305,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 3,
-      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231042531\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231845480\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
     },
     {
       "id": 128,
@@ -24345,14 +24345,14 @@
       "errors": 0,
       "warnings": 0,
       "assets": [
+        "static/georgeroundedlight-webfont.bf663e3f.woff2",
         "static/ava.0af43d31.jpg",
         "static/bg.1c5062d4.jpg",
         "static/georgeroundedlight-webfont.10ed0c5b.woff",
-        "static/georgeroundedlight-webfont.bf663e3f.woff2",
-        "static/georgerounded-webfont.dee065d5.woff",
-        "static/georgeroundedbold-webfont.e1a37e74.woff",
         "static/georgerounded-webfont.9498680e.woff2",
-        "static/georgeroundedbold-webfont.3c4c5bd4.woff2"
+        "static/georgerounded-webfont.dee065d5.woff",
+        "static/georgeroundedbold-webfont.3c4c5bd4.woff2",
+        "static/georgeroundedbold-webfont.e1a37e74.woff"
       ],
       "reasons": [
         {
@@ -24371,7 +24371,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 3,
-      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231043067\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1650231845875\n      var cssReload = require(\"C:/Users/ayohm/Documents/Code/resume-html/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
     },
     {
       "id": 129,
@@ -24441,7 +24441,7 @@
       "name": "css C:/Users/ayohm/Documents/Code/resume-html/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-3-1!C:/Users/ayohm/Documents/Code/resume-html/node_modules/postcss-loader/src??postcss!C:/Users/ayohm/Documents/Code/resume-html/src/index.css",
       "index": 129,
       "index2": 125,
-      "size": 2438,
+      "size": 2489,
       "built": false,
       "optional": false,
       "prefetched": false,
@@ -24597,14 +24597,14 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 7209,
+          "size": 7270,
           "names": [
             "extract-css-chunks-webpack-plugin"
           ],
           "files": [
             "*"
           ],
-          "hash": "f8d2c2493fb3d74afcd8",
+          "hash": "dbd26ac0b0b1dd057bf6",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -24616,7 +24616,7 @@
               "name": "C:/Users/ayohm/Documents/Code/resume-html/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-3-1!C:/Users/ayohm/Documents/Code/resume-html/node_modules/postcss-loader/src??postcss!C:/Users/ayohm/Documents/Code/resume-html/src/index.css",
               "index": 0,
               "index2": 10,
-              "size": 3657,
+              "size": 3718,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -24649,7 +24649,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0,
-              "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar urlEscape = require(\"../node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff2\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff\"));\nvar ___CSS_LOADER_URL___2___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff2\"));\nvar ___CSS_LOADER_URL___3___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff\"));\nvar ___CSS_LOADER_URL___4___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff2\"));\nvar ___CSS_LOADER_URL___5___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff\"));\nvar ___CSS_LOADER_URL___6___ = urlEscape(require(\"../public/img/bg.jpg\"));\nvar ___CSS_LOADER_URL___7___ = urlEscape(require(\"../public/img/ava.jpg\"));\n\n// Module\nexports.push([module.id, \"@font-face {\\r\\n  font-family: 'George Light';\\r\\n  src: url(\" + ___CSS_LOADER_URL___0___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___1___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George';\\r\\n  src: url(\" + ___CSS_LOADER_URL___2___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___3___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George Bold';\\r\\n  src: url(\" + ___CSS_LOADER_URL___4___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___5___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n* {\\r\\n  --sans-light: 'George Light';\\r\\n  --sans: 'George';\\r\\n  --sans-bold: 'George Bold';\\r\\n}\\r\\n\\r\\nbody {\\r\\n  /* font-size: 2.1vh; */\\r\\n  font-size: 1vw;\\r\\n  background: url(\" + ___CSS_LOADER_URL___6___ + \") no-repeat top center;\\r\\n  background-size: cover;\\r\\n  font-family: var(--sans);\\r\\n}\\r\\n\\r\\n.frame {\\r\\n  aspect-ratio: 1/1.4142;\\r\\n  border-radius: 50px;\\r\\n  height: 100%;\\r\\n  width: 50%;\\r\\n  margin: 40px auto;\\r\\n  padding: 40px;\\r\\n  background-color: rgb(255, 255, 255, 0.5);\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\nheader {\\r\\n  display: flex;\\r\\n  width: 100%;\\r\\n  height: 20%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.right-side-header {\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.left-side-main {\\r\\n  width: 45%;\\r\\n  display: flex;\\r\\n  justify-content: flex-start;\\r\\n}\\r\\n\\r\\n.right-side-header,\\r\\n.right-side-main {\\r\\n  width: 55%;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: flex-end;\\r\\n  padding-left: 35px;\\r\\n}\\r\\n\\r\\nh1 {\\r\\n  font-weight: normal;\\r\\n  font-family: var(--sans-bold);\\r\\n  font-size: 4em;\\r\\n  margin: 0;\\r\\n  letter-spacing: 5px;\\r\\n}\\r\\n\\r\\nh2 {\\r\\n  letter-spacing: 1px;\\r\\n  margin-top: 20px !important;\\r\\n  font-size: 2em;\\r\\n  margin: 0;\\r\\n}\\r\\n\\r\\n.photo {\\r\\n  border-radius: 50px;\\r\\n  content: '';\\r\\n  background: url(\" + ___CSS_LOADER_URL___7___ + \") no-repeat center center;\\r\\n  background-size: cover;\\r\\n  width: 70%;\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  height: 76%;\\r\\n}\\r\\n\\r\\nh3 {\\r\\n  font-size: 1.5em;\\r\\n}\\r\\n\\r\\nh4 {\\r\\n  font-size: 1.1em;\\r\\n  margin-bottom: 5px;\\r\\n}\\r\\n\\r\\np {\\r\\n  margin-top: 0;\\r\\n  font-size: 1.1em;\\r\\n  text-align: justify;\\r\\n}\\r\\n\\r\\n.left-side-main {\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\n.right-side-main {\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\", \"\"]);\n\n"
+              "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar urlEscape = require(\"../node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff2\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff\"));\nvar ___CSS_LOADER_URL___2___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff2\"));\nvar ___CSS_LOADER_URL___3___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff\"));\nvar ___CSS_LOADER_URL___4___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff2\"));\nvar ___CSS_LOADER_URL___5___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff\"));\nvar ___CSS_LOADER_URL___6___ = urlEscape(require(\"../public/img/bg.jpg\"));\nvar ___CSS_LOADER_URL___7___ = urlEscape(require(\"../public/img/ava.jpg\"));\n\n// Module\nexports.push([module.id, \"@font-face {\\r\\n  font-family: 'George Light';\\r\\n  src: url(\" + ___CSS_LOADER_URL___0___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___1___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George';\\r\\n  src: url(\" + ___CSS_LOADER_URL___2___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___3___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George Bold';\\r\\n  src: url(\" + ___CSS_LOADER_URL___4___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___5___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n* {\\r\\n  --sans-light: 'George Light';\\r\\n  --sans: 'George';\\r\\n  --sans-bold: 'George Bold';\\r\\n}\\r\\n\\r\\nbody {\\r\\n  /* font-size: 2.1vh; */\\r\\n  font-size: 1.7vw;\\r\\n  background: url(\" + ___CSS_LOADER_URL___6___ + \") no-repeat top center;\\r\\n  background-size: cover;\\r\\n  font-family: var(--sans);\\r\\n  padding: 40px;\\r\\n}\\r\\n\\r\\n#root {\\r\\n  width: 95%;\\r\\n  margin: auto;\\r\\n}\\r\\n\\r\\n.frame {\\r\\n  aspect-ratio: 1/1.4142;\\r\\n  border-radius: 50px;\\r\\n  height: 100%;\\r\\n  /* width: 100%; */\\r\\n  padding: 40px;\\r\\n  background-color: rgb(255, 255, 255, 0.5);\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\nheader {\\r\\n  display: flex;\\r\\n  width: 100%;\\r\\n  height: 20%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.right-side-header {\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.left-side-main {\\r\\n  width: 45%;\\r\\n  display: flex;\\r\\n  justify-content: flex-start;\\r\\n}\\r\\n\\r\\n.right-side-header,\\r\\n.right-side-main {\\r\\n  width: 55%;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: flex-end;\\r\\n  padding-left: 35px;\\r\\n}\\r\\n\\r\\nh1 {\\r\\n  font-weight: normal;\\r\\n  font-family: var(--sans-bold);\\r\\n  font-size: 4em;\\r\\n  margin: 0;\\r\\n  letter-spacing: 5px;\\r\\n}\\r\\n\\r\\nh2 {\\r\\n  letter-spacing: 1px;\\r\\n  margin-top: 20px !important;\\r\\n  font-size: 2em;\\r\\n  margin: 0;\\r\\n}\\r\\n\\r\\n.photo {\\r\\n  border-radius: 50px;\\r\\n  content: '';\\r\\n  background: url(\" + ___CSS_LOADER_URL___7___ + \") no-repeat center center;\\r\\n  background-size: cover;\\r\\n  width: 70%;\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  height: 76%;\\r\\n}\\r\\n\\r\\nh3 {\\r\\n  font-size: 1.5em;\\r\\n}\\r\\n\\r\\nh4 {\\r\\n  font-size: 1.1em;\\r\\n  margin-bottom: 5px;\\r\\n}\\r\\n\\r\\np {\\r\\n  margin-top: 0;\\r\\n  font-size: 1.1em;\\r\\n  text-align: justify;\\r\\n}\\r\\n\\r\\n.left-side-main {\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\n.right-side-main {\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\", \"\"]);\n\n"
             },
             {
               "id": 1,
@@ -25142,7 +25142,7 @@
           "name": "C:/Users/ayohm/Documents/Code/resume-html/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-3-1!C:/Users/ayohm/Documents/Code/resume-html/node_modules/postcss-loader/src??postcss!C:/Users/ayohm/Documents/Code/resume-html/src/index.css",
           "index": 0,
           "index2": 10,
-          "size": 3657,
+          "size": 3718,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -25175,7 +25175,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0,
-          "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar urlEscape = require(\"../node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff2\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff\"));\nvar ___CSS_LOADER_URL___2___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff2\"));\nvar ___CSS_LOADER_URL___3___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff\"));\nvar ___CSS_LOADER_URL___4___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff2\"));\nvar ___CSS_LOADER_URL___5___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff\"));\nvar ___CSS_LOADER_URL___6___ = urlEscape(require(\"../public/img/bg.jpg\"));\nvar ___CSS_LOADER_URL___7___ = urlEscape(require(\"../public/img/ava.jpg\"));\n\n// Module\nexports.push([module.id, \"@font-face {\\r\\n  font-family: 'George Light';\\r\\n  src: url(\" + ___CSS_LOADER_URL___0___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___1___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George';\\r\\n  src: url(\" + ___CSS_LOADER_URL___2___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___3___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George Bold';\\r\\n  src: url(\" + ___CSS_LOADER_URL___4___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___5___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n* {\\r\\n  --sans-light: 'George Light';\\r\\n  --sans: 'George';\\r\\n  --sans-bold: 'George Bold';\\r\\n}\\r\\n\\r\\nbody {\\r\\n  /* font-size: 2.1vh; */\\r\\n  font-size: 1vw;\\r\\n  background: url(\" + ___CSS_LOADER_URL___6___ + \") no-repeat top center;\\r\\n  background-size: cover;\\r\\n  font-family: var(--sans);\\r\\n}\\r\\n\\r\\n.frame {\\r\\n  aspect-ratio: 1/1.4142;\\r\\n  border-radius: 50px;\\r\\n  height: 100%;\\r\\n  width: 50%;\\r\\n  margin: 40px auto;\\r\\n  padding: 40px;\\r\\n  background-color: rgb(255, 255, 255, 0.5);\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\nheader {\\r\\n  display: flex;\\r\\n  width: 100%;\\r\\n  height: 20%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.right-side-header {\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.left-side-main {\\r\\n  width: 45%;\\r\\n  display: flex;\\r\\n  justify-content: flex-start;\\r\\n}\\r\\n\\r\\n.right-side-header,\\r\\n.right-side-main {\\r\\n  width: 55%;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: flex-end;\\r\\n  padding-left: 35px;\\r\\n}\\r\\n\\r\\nh1 {\\r\\n  font-weight: normal;\\r\\n  font-family: var(--sans-bold);\\r\\n  font-size: 4em;\\r\\n  margin: 0;\\r\\n  letter-spacing: 5px;\\r\\n}\\r\\n\\r\\nh2 {\\r\\n  letter-spacing: 1px;\\r\\n  margin-top: 20px !important;\\r\\n  font-size: 2em;\\r\\n  margin: 0;\\r\\n}\\r\\n\\r\\n.photo {\\r\\n  border-radius: 50px;\\r\\n  content: '';\\r\\n  background: url(\" + ___CSS_LOADER_URL___7___ + \") no-repeat center center;\\r\\n  background-size: cover;\\r\\n  width: 70%;\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  height: 76%;\\r\\n}\\r\\n\\r\\nh3 {\\r\\n  font-size: 1.5em;\\r\\n}\\r\\n\\r\\nh4 {\\r\\n  font-size: 1.1em;\\r\\n  margin-bottom: 5px;\\r\\n}\\r\\n\\r\\np {\\r\\n  margin-top: 0;\\r\\n  font-size: 1.1em;\\r\\n  text-align: justify;\\r\\n}\\r\\n\\r\\n.left-side-main {\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\n.right-side-main {\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\", \"\"]);\n\n"
+          "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar urlEscape = require(\"../node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff2\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(require(\"../public/fonts/george/georgeroundedlight-webfont.woff\"));\nvar ___CSS_LOADER_URL___2___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff2\"));\nvar ___CSS_LOADER_URL___3___ = urlEscape(require(\"../public/fonts/george/georgerounded-webfont.woff\"));\nvar ___CSS_LOADER_URL___4___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff2\"));\nvar ___CSS_LOADER_URL___5___ = urlEscape(require(\"../public/fonts/george/georgeroundedbold-webfont.woff\"));\nvar ___CSS_LOADER_URL___6___ = urlEscape(require(\"../public/img/bg.jpg\"));\nvar ___CSS_LOADER_URL___7___ = urlEscape(require(\"../public/img/ava.jpg\"));\n\n// Module\nexports.push([module.id, \"@font-face {\\r\\n  font-family: 'George Light';\\r\\n  src: url(\" + ___CSS_LOADER_URL___0___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___1___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George';\\r\\n  src: url(\" + ___CSS_LOADER_URL___2___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___3___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n@font-face {\\r\\n  font-family: 'George Bold';\\r\\n  src: url(\" + ___CSS_LOADER_URL___4___ + \") format('woff2'),\\r\\n    url(\" + ___CSS_LOADER_URL___5___ + \") format('woff');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n}\\r\\n\\r\\n* {\\r\\n  --sans-light: 'George Light';\\r\\n  --sans: 'George';\\r\\n  --sans-bold: 'George Bold';\\r\\n}\\r\\n\\r\\nbody {\\r\\n  /* font-size: 2.1vh; */\\r\\n  font-size: 1.7vw;\\r\\n  background: url(\" + ___CSS_LOADER_URL___6___ + \") no-repeat top center;\\r\\n  background-size: cover;\\r\\n  font-family: var(--sans);\\r\\n  padding: 40px;\\r\\n}\\r\\n\\r\\n#root {\\r\\n  width: 95%;\\r\\n  margin: auto;\\r\\n}\\r\\n\\r\\n.frame {\\r\\n  aspect-ratio: 1/1.4142;\\r\\n  border-radius: 50px;\\r\\n  height: 100%;\\r\\n  /* width: 100%; */\\r\\n  padding: 40px;\\r\\n  background-color: rgb(255, 255, 255, 0.5);\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\nheader {\\r\\n  display: flex;\\r\\n  width: 100%;\\r\\n  height: 20%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.right-side-header {\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\n.left-side-header,\\r\\n.left-side-main {\\r\\n  width: 45%;\\r\\n  display: flex;\\r\\n  justify-content: flex-start;\\r\\n}\\r\\n\\r\\n.right-side-header,\\r\\n.right-side-main {\\r\\n  width: 55%;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  justify-content: flex-end;\\r\\n  padding-left: 35px;\\r\\n}\\r\\n\\r\\nh1 {\\r\\n  font-weight: normal;\\r\\n  font-family: var(--sans-bold);\\r\\n  font-size: 4em;\\r\\n  margin: 0;\\r\\n  letter-spacing: 5px;\\r\\n}\\r\\n\\r\\nh2 {\\r\\n  letter-spacing: 1px;\\r\\n  margin-top: 20px !important;\\r\\n  font-size: 2em;\\r\\n  margin: 0;\\r\\n}\\r\\n\\r\\n.photo {\\r\\n  border-radius: 50px;\\r\\n  content: '';\\r\\n  background: url(\" + ___CSS_LOADER_URL___7___ + \") no-repeat center center;\\r\\n  background-size: cover;\\r\\n  width: 70%;\\r\\n  height: 100%;\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  height: 76%;\\r\\n}\\r\\n\\r\\nh3 {\\r\\n  font-size: 1.5em;\\r\\n}\\r\\n\\r\\nh4 {\\r\\n  font-size: 1.1em;\\r\\n  margin-bottom: 5px;\\r\\n}\\r\\n\\r\\np {\\r\\n  margin-top: 0;\\r\\n  font-size: 1.1em;\\r\\n  text-align: justify;\\r\\n}\\r\\n\\r\\n.left-side-main {\\r\\n  flex-direction: column;\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\\r\\n.right-side-main {\\r\\n  justify-content: space-between;\\r\\n}\\r\\n\", \"\"]);\n\n"
         },
         {
           "id": 1,

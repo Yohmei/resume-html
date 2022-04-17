@@ -30,18 +30,23 @@
 
 body {
   /* font-size: 2.1vh; */
-  font-size: 1vw;
+  font-size: 1.7vw;
   background: url('../public/img/bg.jpg') no-repeat top center;
   background-size: cover;
   font-family: var(--sans);
+  padding: 40px;
+}
+
+#root {
+  width: 95%;
+  margin: auto;
 }
 
 .frame {
   aspect-ratio: 1/1.4142;
   border-radius: 50px;
   height: 100%;
-  width: 50%;
-  margin: 40px auto;
+  /* width: 100%; */
   padding: 40px;
   background-color: rgb(255, 255, 255, 0.5);
   display: flex;
