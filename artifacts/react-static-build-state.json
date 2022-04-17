@@ -1,0 +1,65 @@
+{
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx",
+    ".ts",
+    ".tsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "silent": false,
+  "entry": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\src\\index.tsx",
+  "plugins": [
+    "react-static-plugin-typescript",
+    [
+      "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static-plugin-source-filesystem\\node.api.js",
+      {
+        "location": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\src\\pages"
+      }
+    ],
+    "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static-plugin-reach-router\\browser.api.js",
+    "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules\\react-static-plugin-sitemap\\dist\\node.api.js",
+    "C:\\Users\\ayohm\\Documents\\Code\\resume-html"
+  ],
+  "paths": {
+    "ROOT": "C:\\Users\\ayohm\\Documents\\Code\\resume-html",
+    "SRC": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\src",
+    "DIST": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\dist",
+    "ASSETS": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\dist",
+    "PLUGINS": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\plugins",
+    "TEMP": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\tmp",
+    "ARTIFACTS": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\artifacts",
+    "PUBLIC": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\public",
+    "NODE_MODULES": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules",
+    "EXCLUDE_MODULES": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\node_modules",
+    "PACKAGE": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\package.json",
+    "HTML_TEMPLATE": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\dist\\index.html",
+    "STATIC_DATA": "C:\\Users\\ayohm\\Documents\\Code\\resume-html\\dist\\staticData"
+  },
+  "siteRoot": "/",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "babelExcludes": [],
+  "devServer": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}
