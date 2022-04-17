@@ -1,0 +1,130 @@
+@font-face {
+  font-family: 'George Light';
+  src: url('../public/fonts/george/georgeroundedlight-webfont.woff2') format('woff2'),
+    url('../public/fonts/george/georgeroundedlight-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'George';
+  src: url('../public/fonts/george/georgerounded-webfont.woff2') format('woff2'),
+    url('../public/fonts/george/georgerounded-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'George Bold';
+  src: url('../public/fonts/george/georgeroundedbold-webfont.woff2') format('woff2'),
+    url('../public/fonts/george/georgeroundedbold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  --sans-light: 'George Light';
+  --sans: 'George';
+  --sans-bold: 'George Bold';
+}
+
+body {
+  font-size: 2.1vh;
+  background: url('../public/img/bg.jpg') no-repeat top center fixed;
+  background-size: cover;
+  font-family: var(--sans);
+}
+
+.frame {
+  aspect-ratio: 1/1.4142;
+  border-radius: 50px;
+  height: 100%;
+  width: 50%;
+  margin: 40px auto;
+  padding: 40px;
+  /* background-color: rgb(255, 255, 255, 0.2); */
+  backdrop-filter: blur(100px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  height: 20%;
+}
+
+.left-side-header,
+.right-side-header {
+  height: 100%;
+}
+
+.left-side-header,
+.left-side-main {
+  width: 45%;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.right-side-header,
+.right-side-main {
+  width: 55%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 35px;
+}
+
+h1 {
+  font-weight: normal;
+  font-family: var(--sans-bold);
+  font-size: 4em;
+  margin: 0;
+  letter-spacing: 5px;
+}
+
+h2 {
+  letter-spacing: 1px;
+  margin-top: 20px !important;
+  font-size: 2em;
+  margin: 0;
+}
+
+.photo {
+  border-radius: 50px;
+  content: '';
+  background: url('../public/img/ava.jpg') no-repeat center center;
+  background-size: cover;
+  width: 70%;
+  height: 100%;
+}
+
+main {
+  display: flex;
+  height: 76%;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.1em;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-top: 0;
+  font-size: 1.1em;
+  text-align: justify;
+}
+
+.left-side-main {
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.right-side-main {
+  justify-content: space-between;
+}
